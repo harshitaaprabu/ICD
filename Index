@@ -1,0 +1,6 @@
+# List of vowels
+vowel_list = ['a', 'e', 'i', 'o', 'u']
+# Let's find the index of the letter u
+index_of_u = vowel_list.index('u')
+# Print the index
+print('The index or position of u in the list is: ', index_of_u)
