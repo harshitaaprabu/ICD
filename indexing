@@ -1,0 +1,11 @@
+data_structures = ["Heap", "Stack", "Heap", "Linked List", 
+"Binary Trees", "Heap"] 
+# finding the length of the list 
+size = len(data_structures) 
+print("Indices are: ") 
+# Creating a for loop 
+for i in range(size): 
+ # checking the condition 
+ if(data_structures[i] == "Heap"): 
+ # printing the indices 
+ print(i) 
